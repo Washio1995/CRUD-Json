@@ -1,0 +1,16 @@
+
+    {
+      "id": "101",
+      "nombre": "Cesar",
+      "nacionalidad": "Ecuador"
+    },
+    {
+      "id": "102",
+      "nombre": "Leo",
+      "nacionalidad": "Peru"
+    },
+    {
+      "id": "103",
+      "nombre": "Byron",
+      "nacionalidad": "Chile"
+    }
